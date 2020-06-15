@@ -1,0 +1,37 @@
+{
+  "_from": "mymathts16",
+  "_id": "mymathts16@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-UobUREBoZLgQukpvikqWUIX/nqwttbdeffehGTldtCoZ3caPYyErWdg/NdMISweadaFKvgwGccPiP2QlUJg0yA==",
+  "_location": "/mymathts16",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "mymathts16",
+    "name": "mymathts16",
+    "escapedName": "mymathts16",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/mymathts16/-/mymathts16-1.0.0.tgz",
+  "_shasum": "0ede72a1bb9002cbc72dbd403080208100274ef7",
+  "_spec": "mymathts16",
+  "_where": "C:\\WorkSpace\\TypeScript\\t4rzsan\\aspnet-core-with-webpack-master - Copy\\CoreWebApplication2",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "mymathts16",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
